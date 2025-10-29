@@ -1,11 +1,11 @@
-Jack - personal portfolio
+Viraj - personal portfolio
 
 # HEDER
 
-Jack.
+Viraj.
 
 En
-Ar
+Ru
 
 aria-label = Change Theme
 title = Change Theme
@@ -71,7 +71,7 @@ About me
 
 Need a Creative Product? I can Help You!
 
-Hi! I’m Jack Reacher, and I’m a developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+Hi! I’m Viraj Rana, and I’m a Software engineer / developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
 
 Hire me
 
@@ -209,7 +209,7 @@ Get in touch and let me know how i can help. Fill out the form and i’ll be in 
 
 <ion-icon name="location-outline"></ion-icon>
 Address:
-941 Saqrqorish Road, alandalos, grnata, wa 47122-4194
+San fransico california
 
 <ion-icon name="call-outline"></ion-icon>
 Phone:
@@ -218,8 +218,8 @@ Phone:
 
 <ion-icon name="mail-outline"></ion-icon>
 Email:
-info@jack.com
-support@jack.com
+info@viraj.com
+support@viraj.com
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
@@ -248,7 +248,7 @@ Send
 
 # FOOTER
 
-Jack.
+Viraj.
 
 &copy; 2022 codewithsadee. All rights reserved
 
